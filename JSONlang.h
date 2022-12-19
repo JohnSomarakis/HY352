@@ -1,6 +1,6 @@
 //
 // SOMARAKIS GIANNIS    | CSD4302
-// DIALEKTAKIS ANTONIS  | dialektakis kalimeraaa
+// DIALEKTAKIS ANTONIS  | dialektakis
 //
 #ifndef HY352_JSONLANG_H
 #define HY352_JSONLANG_H
